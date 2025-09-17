@@ -1,0 +1,17 @@
+
+.bgimg{
+    margin-top:10px;
+}
+
+.imgdiv{
+    position:relative;
+  
+}
+
+.city{
+     position:absolute;
+    font-weight: 700;
+    font-size: 20px;
+    left:10px;
+    bottom:1px;
+}

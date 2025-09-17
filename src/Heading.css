@@ -1,0 +1,20 @@
+
+.heading{
+   
+    text-align: center;
+    position:relative;
+}
+.h4{
+    display:inline;
+    font-weight: 1000;
+    font-size:20px;
+   
+}
+.menue{
+    position:absolute;
+    right:5px;
+    font-size:25px;
+    top:8px;
+    font-weight:1000;
+    cursor:pointer;
+}

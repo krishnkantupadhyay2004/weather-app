@@ -1,0 +1,13 @@
+
+.day{
+   
+    display:inline;
+    margin-left:10px;
+    font-weight: 700;
+    text-decoration: underline;
+    cursor:pointer;
+}
+.div{
+
+    margin-top:30px;
+}
