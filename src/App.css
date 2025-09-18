@@ -1,7 +1,7 @@
 #root {
- max-width: 600px;
- width:80vw;
- min-height: 80vh;
+ /* max-width: 600px; */
+ width:300px;
+ min-height: 90vh;
  
   height: 500px;
   margin: 0 auto;
