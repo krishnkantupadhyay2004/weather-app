@@ -3,7 +3,7 @@ border-radius: 10px;
  background-color: #111B22;
  border:1px solid white;
     width: 100vw;
-    /* max-width: 300px; */
+    max-width: 340px;
     height: 90vh;
     position: relative;
      overflow: auto;   
