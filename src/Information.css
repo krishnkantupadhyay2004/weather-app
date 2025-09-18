@@ -29,15 +29,16 @@
     cursor: pointer;
 }
 .cardbox{
- 
+    /* border:2px solid blue; */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 
 .cardone{
-
+    /* border:2px solid red; */
     width: 130px;
     height: 50px;
     margin-left:10px;
