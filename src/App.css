@@ -1,5 +1,8 @@
 #root {
- max-width: 320px;
+ max-width: 600px;
+ width:80vw;
+ min-height: 80vh;
+ 
   height: 500px;
   margin: 0 auto;
   padding: 1rem;
