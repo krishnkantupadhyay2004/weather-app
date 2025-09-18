@@ -1,11 +1,13 @@
 #root {
  /* max-width: 600px; */
- width:300px;
- min-height: 90vh;
+ /* width:400px; */
+ /* height: 90vh; */
  
-  height: 500px;
+  /* height: 500px; */
   margin: 0 auto;
-  padding: 1rem;
+  border:2px solid red;
+  /* padding: 1rem; */
+  /* border:2px solid red; */
  
 }
 
