@@ -1,8 +1,9 @@
 {
+    "homepage": "https://krishnkantupadhyay2004.github.io/React-app",
   "name": "weather-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://krishnkantupadhyay2004.github.io/React-app",
+
   "type": "module",
   "scripts": {
   "dev": "vite",
